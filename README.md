@@ -1,0 +1,1 @@
+The main objective of this project is to determine the life expectancy of a population in a particular country. The output will be continuos values and determining the most important features and same using them to train our linear regression model and binary classification
