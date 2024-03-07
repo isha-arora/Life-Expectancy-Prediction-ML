@@ -1,2 +1,2 @@
-The main objective of this project is to determine the life expectancy of a population in a particular country. The output will be continuous values and determining the most important features and same using them to train our linear regression model and binary classification
-I have used Python language to train and test the linear Regression Model. The Life Expectancy is divided into 2 categories: Above Average and Below Average. 
+The main objective of this project is to determine the life expectancy of a population in a particular country. The output will be the classification of 2 values, and determining the most important features and same using them to train our linear regression model and binary classification
+I have used Python language to train and test different Machine Learning Model. The Life Expectancy is divided into 2 categories: Above Average and Below Average. 
